@@ -16,7 +16,7 @@ With this challenge I wanted to create a day-scheduler that would allow a user t
 
 ## Website
 https://codequeen69.github.io/schedule-my-day/
-
+![Screen Shot 2022-06-29 at 1 09 27 PM](https://user-images.githubusercontent.com/104512547/176506406-9d531475-1b5e-4216-8d47-22d086d01665.png)
 ## Contribution
 Made by Camille Howe
 
