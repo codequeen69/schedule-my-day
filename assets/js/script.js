@@ -1,15 +1,5 @@
 var hourEvent = document.querySelector(".description");
 var currentTime = moment().hour();
-var hourNine = document.getElementById("hour-text-9");
-var hourTen = document.getElementById("hour-text-10");
-var hourEleven = document.getElementById("hour-text-11");
-var hourTwelve = document.getElementById("hour-text-12");
-var hourThirteen = document.getElementById("hour-text-13");
-var hourFourteen = document.getElementById("hour-text-13");
-var hourFifteen = document.getElementById("hour-text-13");
-var hourSixteen = document.getElementById("hour-text-13");
-var hourSeventeen = document.getElementById("hour-text-13");
-
 
 //Display current date
 $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm a"));
